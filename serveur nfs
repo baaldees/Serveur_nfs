@@ -27,6 +27,10 @@ Ajout du partage NFS sur ESXi
 
 Allez dans "stockage"
 
+![Legende](https://github.com/baaldees/Serveur_nfs/blob/main/dossier/fournir_les_details.jpeg)
+
+
+
 puis "Nouvelle banque de données"
 
 ensuite "Monter la banque de données NFS"
