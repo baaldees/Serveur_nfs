@@ -53,6 +53,7 @@ ensuite "Monter la banque de données NFS"
 fournissez les details du partage NFS
 
 laisser NFS 3
+
 ![Legend](https://github.com/baaldees/Serveur_nfs/blob/main/dossier/fournir_les_details.jpeg)
 
 faite "suivant " puis terminer
