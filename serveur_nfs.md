@@ -30,7 +30,8 @@
 * **no_subtree_check** : Pas de vérification des droits d’accès dans les sous répertoires.
 * **no_root_squash** : cette option est seulement nécessaire pour les clients sans disque, ce qui est mon cas avec la configuration de Promxox
 
-* Relance du service _nfs-kernel-server_ pour la prise en compte des modifications :
+
+Relance du service _nfs-kernel-server_ pour la prise en compte des modifications :
 
 `service nfs-kernel-server restart`
 
